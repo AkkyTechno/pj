@@ -1,0 +1,21 @@
+body{background:url(images.jpeg);
+    background-size: cover;  background-position: center;
+
+    background-repeat: no-repeat;
+    background-position-x: left;
+    margin: auto -100px auto 10px;
+}
+
+label{color: black;}
+.form-control{
+    background: rgba(68, 3, 3, 0.5);  padding: 50px;
+}
+.form-control{ background-color:azure;}
+
+/* for Sign up */
+.login-bo{
+    max-width: 700px;  float: none;  margin:50px  auto;
+}
+.login-lef{
+    background: rgba(211,211,211,0.5);  padding: 5px;;
+}
